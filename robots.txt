@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+https://www.santoshbharti.com/sitemap.xml

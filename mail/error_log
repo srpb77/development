@@ -1,0 +1,8 @@
+[17-Feb-2024 16:30:58 Asia/Calcutta] PHP Warning:  Undefined variable $phone in /home/bhartisantosh/public_html/mail/contact.php on line 23
+[17-Feb-2024 16:30:58 Asia/Calcutta] PHP Warning:  Undefined variable $status in /home/bhartisantosh/public_html/mail/contact.php on line 23
+[17-Feb-2024 16:30:58 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Column count doesn't match value count at row 1 in /home/bhartisantosh/public_html/mail/contact.php:24
+Stack trace:
+#0 /home/bhartisantosh/public_html/mail/contact.php(24): mysqli_query(Object(mysqli), 'INSERT INTO `en...')
+#1 {main}
+  thrown in /home/bhartisantosh/public_html/mail/contact.php on line 24
+[17-Feb-2024 16:34:46 Asia/Calcutta] PHP Warning:  Undefined variable $status in /home/bhartisantosh/public_html/mail/contact.php on line 23
